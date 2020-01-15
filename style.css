@@ -49,9 +49,9 @@ table {
 @media screen and (max-width: 480px) {
 
 
-div.header{
+div.header #test{
     background-color:#333333;
-
+    position:fixed;
     top:20px;
 }
  
