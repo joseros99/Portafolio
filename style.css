@@ -49,11 +49,15 @@ table {
 @media screen and (max-width: 480px) {
 
 
-div.header #test{
-    background-color:#333333;
-    position:fixed;
-    top:20px;
-}
+    div.sticky {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+        padding: 5px;
+        background-color: #cae8ca;
+        border: 2px solid #4CAF50;
+      }
+
  
 
 
