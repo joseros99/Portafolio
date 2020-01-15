@@ -49,7 +49,7 @@ table {
 @media screen and (max-width: 480px) {
 
 
-    div.sticky {
+    #yo {
         position: -webkit-sticky;
         position: sticky;
         top: 0;
